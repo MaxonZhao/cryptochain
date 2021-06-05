@@ -1,0 +1,23 @@
+{
+  "name": "cryptochain",
+  "version": "1.0.0",
+  "description": "A fullstack ryptochain project using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxonZhao/cryptochain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxonZhao/cryptochain/issues"
+  },
+  "homepage": "https://github.com/MaxonZhao/cryptochain#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
