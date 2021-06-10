@@ -1,2 +1,2 @@
 # cryptochain
-A fullstack ryptochain project using javascript
+A fullstack cryptochain project using javascript
